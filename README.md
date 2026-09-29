@@ -392,6 +392,7 @@ for img_path in meta["overviews"]:      # 顺序 = 时间顺序，一张都不�
 video-understanding/
 ├── SKILL.md                    # Skill 定义与调用约定
 ├── README.md                   # 本文件
+├── LICENSE                     # GPL-3.0 全文
 ├── references/
 │   └── parameters.md           # 参数全表、阈值原理、选帧算法、性能数据
 └── scripts/
@@ -402,4 +403,23 @@ video-understanding/
 
 ## License
 
-MIT
+**GNU General Public License v3.0（GPL-3.0）** —— 完整条款见 [LICENSE](LICENSE)。
+
+```
+Copyright (C) 2026 ztough926
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
+```
+
+**这意味着**：你可以自由使用、修改、分发本项目，商业使用也允许；但**分发衍生作品时必须以 GPL-3.0 同样开源，并提供完整源码**。
