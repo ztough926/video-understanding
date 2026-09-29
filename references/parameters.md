@@ -125,7 +125,7 @@ print(meta["overview"], meta["keyframes"][0]["time"])     # 总览图路径 / �
 
 ## 自测素材
 
-`F:\WorkBuddy\2026-09-17-16-45-30\keyframe-extractor\tests\assets\`（脚本作者留的回归素材）：
+脚本作者另留有一组回归素材（未随仓库分发），改动脚本后拿这四个跑一遍即可验证没跑偏：
 
 | 素材 | 期望行为 |
 | --- | --- |
